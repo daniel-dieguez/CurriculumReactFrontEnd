@@ -1,0 +1,21 @@
+.funcion{
+  background-image: 
+  url(https://www.muycomputer.com/wp-content/uploads/2019/01/lenguaje-de-programaci%C3%B3n.jpg);  
+  background-size: 900px 800px;
+  min-height: 100vh;
+
+}
+
+*{
+  color:aliceblue
+}
+
+.fotodan{
+  width: 300px;
+    border-radius: 50%;
+    float: left;
+    display: block;
+    margin: 10px;
+    border: 5px solid #151f3d;
+    height: 60%;
+}
